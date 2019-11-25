@@ -1,4 +1,5 @@
 <template>
+<!-- Footer component representing the footer page... it is static page, displayed at the foot of each page/component-->
     <div class="footer">
         <div class="m-2">
             <br><hr>

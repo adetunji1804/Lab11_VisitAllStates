@@ -1,4 +1,5 @@
 <template>
+<!-- Header component representing the Header page... it is static page, displayed at the head of each page/component-->
 <div class="header">
     <div class="jumbotron">
         <h4 class="display-4" id ="title"> Have you visited every state?</h4>

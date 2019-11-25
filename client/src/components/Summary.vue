@@ -1,5 +1,5 @@
 <template>
-    
+    <!-- component give a summary of number of state/s visited, responsive to the state checkbox -->
     <div class="summary">
 
         <h5>You have visited {{ total }} {{ statesPlural }} </h5>

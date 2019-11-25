@@ -1,5 +1,5 @@
 <template>
-    
+    <!-- component display the map for each states using object from the leaflet map -->
     <div class="state-detail p-2">
         <h4>The State of {{ state.name }} </h4>
 
@@ -19,8 +19,6 @@
     </div>
 
 </template>
-
-
 
 <script>
 import {LMap, LTileLayer } from 'vue2-leaflet'

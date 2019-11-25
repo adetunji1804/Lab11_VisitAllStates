@@ -1,5 +1,5 @@
 <template>
-
+<!-- State component hold each icon and name with a check box for each states -->
     <div class="state-summary p-2 rounded">
 
         <span class="m-2">{{ state.name }}</span>
